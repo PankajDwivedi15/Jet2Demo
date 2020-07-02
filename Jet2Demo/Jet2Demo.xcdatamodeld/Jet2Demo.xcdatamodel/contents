@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19E287" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ArticleDetail" representedClassName="ArticleDetail" syncable="YES" codeGenerationType="class">
+        <attribute name="articleContent" optional="YES" attributeType="String"/>
+        <attribute name="articleCreatedAt" optional="YES" attributeType="String"/>
+        <attribute name="articleId" optional="YES" attributeType="String"/>
+        <attribute name="comments" optional="YES" attributeType="String"/>
+        <attribute name="likes" optional="YES" attributeType="String"/>
+        <attribute name="mediaBlogId" optional="YES" attributeType="String"/>
+        <attribute name="mediaCreatedId" optional="YES" attributeType="String"/>
+        <attribute name="mediaId" optional="YES" attributeType="String"/>
+        <attribute name="mediaImage" optional="YES" attributeType="String"/>
+        <attribute name="mediaTitle" optional="YES" attributeType="String"/>
+        <attribute name="mediaUrl" optional="YES" attributeType="String"/>
+        <attribute name="userAbout" optional="YES" attributeType="String"/>
+        <attribute name="userAvatar" optional="YES" attributeType="String"/>
+        <attribute name="userBlodId" optional="YES" attributeType="String"/>
+        <attribute name="userCity" optional="YES" attributeType="String"/>
+        <attribute name="userCreatedAt" optional="YES" attributeType="String"/>
+        <attribute name="userDesignation" optional="YES" attributeType="String"/>
+        <attribute name="userId" optional="YES" attributeType="String"/>
+        <attribute name="userLastname" optional="YES" attributeType="String"/>
+        <attribute name="userName" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="ArticleDetail" positionX="-63" positionY="-18" width="128" height="343"/>
+    </elements>
+</model>
